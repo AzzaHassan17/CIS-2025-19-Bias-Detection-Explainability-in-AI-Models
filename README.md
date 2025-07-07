@@ -42,7 +42,7 @@ Final evaluation used the BERT model for its superior performance.
 
 ### Initial BERT Results:
 - **Accuracy: 82.3%**
-- **F1-Score (Hire): 0.72**
+- **F1-Score (Hire): 0.79**
 
 ## 📊 3. Fairness Evaluation
 
